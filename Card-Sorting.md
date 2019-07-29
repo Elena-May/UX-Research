@@ -37,3 +37,9 @@ IA focuses on organising, structuring and labeling content in an effective and s
 - Randomise the order of presentation
 - Provide participants with an estimate of how long the card sort will take
 - Open sort for part 1 and closed sort as part 2 
+
+Much of the value from card sorting comes from listening to the users' comments as they sort the cards: knowing why people place certain cards together gives deeper insight into their mental models than the pure fact that they sorted cards into the same pile.
+
+
+## Useful Links
+https://www.nngroup.com/articles/card-sorting-how-many-users-to-test/
